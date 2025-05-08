@@ -1,0 +1,23 @@
+<!-- wp:group {"align":"full","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull"><!-- wp:columns {"style":{"spacing":{"padding":{"right":"0","left":"0","top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} -->
+<div class="wp-block-columns" style="padding-top:var(--wp--preset--spacing--30);padding-right:0;padding-bottom:var(--wp--preset--spacing--30);padding-left:0"><!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}},"border":{"style":"solid","width":"2px"}},"backgroundColor":"white","borderColor":"vivid-green-cyan"} -->
+<div class="wp-block-column has-border-color has-vivid-green-cyan-border-color has-white-background-color has-background" style="border-style:solid;border-width:2px;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:heading {"textAlign":"left"} -->
+<h2 class="wp-block-heading has-text-align-left">Pros</h2>
+<!-- /wp:heading -->
+
+<!-- wp:affiliate-booster/ab-icon-list {"uniqueId":"50cb07","block_id":"50cb07d6-c551-4419-83d6-587b9a639d08","boxShadow":{"openShadow":false,"inset":0,"horizontal":0,"vertical":8,"blur":35,"spread":0,"color":"rgba(0,0,0,0.10)"},"listTextItems":["High scalability for large scraping projects","Wide range of proxy types (residential, datacenter, mobile)","24/7 customer support with dedicated account managers","User-friendly dashboard with detailed analytics"],"boxPadding":{"unit":"px","top":"0","left":"0","right":"0","bottom":"0"}} -->
+<div id="affiliate-style-50cb07d6-c551-4419-83d6-587b9a639d08" class="wp-block-affiliate-booster-ab-icon-list affiliate-block-50cb07 affiliate-iconlist-wrapper"><div class="affiliate-iconlist-inner aff-list-isshow-icon"><div class="affiliate-block-advanced-list affiliate-icon-list affiliate-alignment-left"><ul class="affiliate-list affiliate-list-type-unordered affiliate-list-bullet-check-circle"><li>High scalability for large scraping projects</li><li>Wide range of proxy types (residential, datacenter, mobile)</li><li>24/7 customer support with dedicated account managers</li><li>User-friendly dashboard with detailed analytics</li></ul></div></div></div>
+<!-- /wp:affiliate-booster/ab-icon-list --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}},"border":{"style":"solid","width":"2px"}},"backgroundColor":"white","borderColor":"vivid-red"} -->
+<div class="wp-block-column has-border-color has-vivid-red-border-color has-white-background-color has-background" style="border-style:solid;border-width:2px;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:heading {"textAlign":"left"} -->
+<h2 class="wp-block-heading has-text-align-left">Cons</h2>
+<!-- /wp:heading -->
+
+<!-- wp:affiliate-booster/ab-icon-list {"uniqueId":"4dc3d4","block_id":"4dc3d482-7551-436b-88d3-915527705c3e","boxShadow":{"openShadow":false,"inset":0,"horizontal":0,"vertical":8,"blur":35,"spread":0,"color":"rgba(0,0,0,0.10)"},"listTextItems":["High cost compared to competitors","Limited free trial options","Requires technical knowledge for advanced configurations","Potential issues with certain geo-restricted content"],"bulletStyle":{"name":"times","value":"fas fa-times"},"listIconColor":"#ff1818","boxPadding":{"unit":"px","top":"0","left":"0","right":"0","bottom":"0"}} -->
+<div id="affiliate-style-4dc3d482-7551-436b-88d3-915527705c3e" class="wp-block-affiliate-booster-ab-icon-list affiliate-block-4dc3d4 affiliate-iconlist-wrapper"><div class="affiliate-iconlist-inner aff-list-isshow-icon"><div class="affiliate-block-advanced-list affiliate-icon-list affiliate-alignment-left"><ul class="affiliate-list affiliate-list-type-unordered affiliate-list-bullet-times"><li>High cost compared to competitors</li><li>Limited free trial options</li><li>Requires technical knowledge for advanced configurations</li><li>Potential issues with certain geo-restricted content</li></ul></div></div></div>
+<!-- /wp:affiliate-booster/ab-icon-list --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->

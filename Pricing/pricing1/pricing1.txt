@@ -1,0 +1,87 @@
+<!-- wp:group {"metadata":{"name":"Pricing Box 5","categories":["ab-pricing-tables"],"patternName":"affiliatebooster-blocks/affiliatebooster-pricing-table4"},"align":"full","style":{"spacing":{"padding":{"right":"0","left":"0"},"blockGap":"0"}},"layout":{"type":"constrained","contentSize":"1024px"}} -->
+<div class="wp-block-group alignfull" style="padding-right:0;padding-left:0"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}},"border":{"color":"#d7d7d7","width":"1px","radius":"15px"}}} -->
+<div class="wp-block-column has-border-color" style="border-color:#d7d7d7;border-width:1px;border-radius:15px;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--50)"><!-- wp:image {"id":22,"width":"100px","sizeSlug":"full","linkDestination":"none","align":"center","className":"is-style-rounded","style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized is-style-rounded" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40)"><img src="http://localhost:10048/wp-content/uploads/2024/11/cloudways-akfhwef.jpg" alt="" class="wp-image-22" style="width:100px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}},"typography":{"fontSize":"23px"},"spacing":{"padding":{"top":"0","bottom":"0"},"margin":{"top":"0","bottom":"0"}}},"textColor":"black"} -->
+<p class="has-text-align-center has-black-color has-text-color has-link-color" style="margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;font-size:23px"><strong>Basic</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}},"typography":{"fontSize":"45px"},"spacing":{"padding":{"top":"0","bottom":"0"},"margin":{"top":"0","bottom":"0"}}},"textColor":"black"} -->
+<h2 class="wp-block-heading has-text-align-center has-black-color has-text-color has-link-color" id="30--29mo-" style="margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;font-size:45px"><strong>$29/mo</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Standard plan description. Phasellus sodales gravida lorem, ac accumsan eros facilisis vel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:affiliate-booster/ab-icon-list {"uniqueId":"816901","block_id":"816901ce-2dea-4531-a72f-ff0b4c654af2","boxShadow":{"openShadow":false,"inset":0,"horizontal":0,"vertical":8,"blur":35,"spread":0,"color":"rgba(0,0,0,0.10)"},"listTextItems":["Plan Featured Item","Plan Featured Item","Plan Featured Item"],"bulletStyle":{"name":"check-circle","value":"fas fa-check-circle"},"listlineHeight":2.5,"listIconColor":"#30ac3d","boxPadding":{"unit":"px","top":"0","left":"20","right":"0","bottom":"0"}} -->
+<div id="affiliate-style-816901ce-2dea-4531-a72f-ff0b4c654af2" class="wp-block-affiliate-booster-ab-icon-list affiliate-block-816901 affiliate-iconlist-wrapper"><div class="affiliate-iconlist-inner aff-list-isshow-icon"><div class="affiliate-block-advanced-list affiliate-icon-list affiliate-alignment-left"><ul class="affiliate-list affiliate-list-type-unordered affiliate-list-bullet-check-circle"><li>Plan Featured Item</li><li>Plan Featured Item</li><li>Plan Featured Item</li></ul></div></div></div>
+<!-- /wp:affiliate-booster/ab-icon-list -->
+
+<!-- wp:buttons {"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|30","left":"var:preset|spacing|20"}}},"fontSize":"small","layout":{"type":"flex","flexWrap":"wrap","orientation":"horizontal","justifyContent":"center","verticalAlignment":"stretch"}} -->
+<div class="wp-block-buttons has-custom-font-size has-small-font-size"><!-- wp:button {"backgroundColor":"white","textColor":"black","className":"is-style-outline","style":{"spacing":{"padding":{"left":"var:preset|spacing|80","right":"var:preset|spacing|80","top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}},"border":{"radius":"10px","width":"1px"},"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"borderColor":"black"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-black-color has-white-background-color has-text-color has-background has-link-color has-border-color has-black-border-color wp-element-button" style="border-width:1px;border-radius:10px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--80)">Get Started</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}},"border":{"radius":"15px","width":"1px"}},"borderColor":"vivid-red"} -->
+<div class="wp-block-column has-border-color has-vivid-red-border-color" style="border-width:1px;border-radius:15px;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--50)"><!-- wp:image {"id":22,"width":"100px","sizeSlug":"full","linkDestination":"none","align":"center","className":"is-style-rounded","style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized is-style-rounded" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40)"><img src="http://localhost:10048/wp-content/uploads/2024/11/cloudways-akfhwef.jpg" alt="" class="wp-image-22" style="width:100px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}},"typography":{"fontSize":"23px"},"spacing":{"padding":{"top":"0","bottom":"0"},"margin":{"top":"0","bottom":"0"}}},"textColor":"black"} -->
+<p class="has-text-align-center has-black-color has-text-color has-link-color" style="margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;font-size:23px"><strong>Premium</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"#091356"}}},"typography":{"fontSize":"45px"},"color":{"text":"#091356"},"spacing":{"padding":{"top":"0","bottom":"0"},"margin":{"top":"0","bottom":"0"}}}} -->
+<h2 class="wp-block-heading has-text-align-center has-text-color has-link-color" id="32--49mo-" style="color:#091356;margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;font-size:45px"><strong>$49/mo</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Standard plan description. Phasellus sodales gravida lorem, ac accumsan eros facilisis vel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:affiliate-booster/ab-icon-list {"uniqueId":"e9a5c0","block_id":"e9a5c0b0-d55b-41a0-aa57-bbfaa07e2245","boxShadow":{"openShadow":false,"inset":0,"horizontal":0,"vertical":8,"blur":35,"spread":0,"color":"rgba(0,0,0,0.10)"},"listTextItems":["Plan Featured Item","Plan Featured Item","Plan Featured Item"],"bulletStyle":{"name":"check-circle","value":"fas fa-check-circle"},"listlineHeight":2.5,"listIconColor":"#30ac3d","boxPadding":{"unit":"px","top":"0","left":"20","right":"0","bottom":"0"}} -->
+<div id="affiliate-style-e9a5c0b0-d55b-41a0-aa57-bbfaa07e2245" class="wp-block-affiliate-booster-ab-icon-list affiliate-block-e9a5c0 affiliate-iconlist-wrapper"><div class="affiliate-iconlist-inner aff-list-isshow-icon"><div class="affiliate-block-advanced-list affiliate-icon-list affiliate-alignment-left"><ul class="affiliate-list affiliate-list-type-unordered affiliate-list-bullet-check-circle"><li>Plan Featured Item</li><li>Plan Featured Item</li><li>Plan Featured Item</li></ul></div></div></div>
+<!-- /wp:affiliate-booster/ab-icon-list -->
+
+<!-- wp:buttons {"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|30","left":"var:preset|spacing|20"}}},"fontSize":"small","layout":{"type":"flex","flexWrap":"wrap","orientation":"horizontal","justifyContent":"center","verticalAlignment":"stretch"}} -->
+<div class="wp-block-buttons has-custom-font-size has-small-font-size"><!-- wp:button {"backgroundColor":"vivid-red","style":{"spacing":{"padding":{"left":"var:preset|spacing|80","right":"var:preset|spacing|80","top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}},"border":{"width":"1px","radius":"10px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-vivid-red-background-color has-background wp-element-button" style="border-width:1px;border-radius:10px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--80)">Get Started</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}},"border":{"color":"#d7d7d7","width":"1px","radius":"15px"}}} -->
+<div class="wp-block-column has-border-color" style="border-color:#d7d7d7;border-width:1px;border-radius:15px;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--50)"><!-- wp:image {"id":22,"width":"100px","sizeSlug":"full","linkDestination":"none","align":"center","className":"is-style-rounded","style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized is-style-rounded" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40)"><img src="http://localhost:10048/wp-content/uploads/2024/11/cloudways-akfhwef.jpg" alt="" class="wp-image-22" style="width:100px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}},"typography":{"fontSize":"23px"},"spacing":{"padding":{"top":"0","bottom":"0"},"margin":{"top":"0","bottom":"0"}}},"textColor":"black"} -->
+<p class="has-text-align-center has-black-color has-text-color has-link-color" style="margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;font-size:23px"><strong>Top Level</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}},"typography":{"fontSize":"45px"},"spacing":{"padding":{"top":"0","bottom":"0"},"margin":{"top":"0","bottom":"0"}}},"textColor":"black"} -->
+<h2 class="wp-block-heading has-text-align-center has-black-color has-text-color has-link-color" id="34--79mo-" style="margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;font-size:45px"><strong>$79/mo</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Standard plan description. Phasellus sodales gravida lorem, ac accumsan eros facilisis vel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:affiliate-booster/ab-icon-list {"uniqueId":"f0cda9","block_id":"f0cda9cf-9c3d-4427-a348-0e4c5bad8468","boxShadow":{"openShadow":false,"inset":0,"horizontal":0,"vertical":8,"blur":35,"spread":0,"color":"rgba(0,0,0,0.10)"},"listTextItems":["Plan Featured Item","Plan Featured Item","Plan Featured Item"],"bulletStyle":{"name":"check-circle","value":"fas fa-check-circle"},"listlineHeight":2.5,"listIconColor":"#30ac3d","boxPadding":{"unit":"px","top":"0","left":"20","right":"0","bottom":"0"}} -->
+<div id="affiliate-style-f0cda9cf-9c3d-4427-a348-0e4c5bad8468" class="wp-block-affiliate-booster-ab-icon-list affiliate-block-f0cda9 affiliate-iconlist-wrapper"><div class="affiliate-iconlist-inner aff-list-isshow-icon"><div class="affiliate-block-advanced-list affiliate-icon-list affiliate-alignment-left"><ul class="affiliate-list affiliate-list-type-unordered affiliate-list-bullet-check-circle"><li>Plan Featured Item</li><li>Plan Featured Item</li><li>Plan Featured Item</li></ul></div></div></div>
+<!-- /wp:affiliate-booster/ab-icon-list -->
+
+<!-- wp:buttons {"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|30","left":"var:preset|spacing|20"}}},"fontSize":"small","layout":{"type":"flex","flexWrap":"wrap","orientation":"horizontal","justifyContent":"center","verticalAlignment":"stretch"}} -->
+<div class="wp-block-buttons has-custom-font-size has-small-font-size"><!-- wp:button {"backgroundColor":"white","textColor":"black","className":"is-style-outline","style":{"spacing":{"padding":{"left":"var:preset|spacing|80","right":"var:preset|spacing|80","top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}},"border":{"radius":"10px","width":"1px"},"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"borderColor":"black"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-black-color has-white-background-color has-text-color has-background has-link-color has-border-color has-black-border-color wp-element-button" style="border-width:1px;border-radius:10px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--80)">Get Started</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->

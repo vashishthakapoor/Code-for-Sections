@@ -1,0 +1,77 @@
+<!-- wp:group {"align":"full","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Designed for affiliates,&nbsp;by an affiliate.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Affiliate Booster is a feature-rich WordPress plugin having all the required features at one place. Get rid of multiple plugins from your blog and install just one.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns {"style":{"spacing":{"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40","top":"var:preset|spacing|30","bottom":"var:preset|spacing|50"}}}} -->
+<div class="wp-block-columns" style="padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--40)"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"width":"250px","sizeSlug":"large","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://www.affiliatebooster.com/wp-content/uploads/2024/10/2ab-1.webp" alt="" style="width:250px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"28px"}}} -->
+<h3 class="wp-block-heading has-text-align-center" style="font-size:28px">Choose from ready-made designs</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"},"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"textColor":"black"} -->
+<p class="has-text-align-center has-black-color has-text-color has-link-color" style="font-size:18px">More than 28 ready-made designs to save your precious time. Now focus on content rather than design.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"width":"250px","sizeSlug":"large","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://www.affiliatebooster.com/wp-content/uploads/2024/10/2ab-1.webp" alt="" style="width:250px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"28px"}}} -->
+<h3 class="wp-block-heading has-text-align-center" style="font-size:28px">Choose from ready-made designs</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"},"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"textColor":"black"} -->
+<p class="has-text-align-center has-black-color has-text-color has-link-color" style="font-size:18px">Multiple editing options to make these blocks meet all your personal preferences and choices.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"width":"250px","sizeSlug":"large","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://www.affiliatebooster.com/wp-content/uploads/2024/10/2ab-1.webp" alt="" style="width:250px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"28px"}}} -->
+<h3 class="wp-block-heading has-text-align-center" style="font-size:28px">Start getting more clicks &amp; sales</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"},"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"textColor":"black"} -->
+<p class="has-text-align-center has-black-color has-text-color has-link-color" style="font-size:18px">Affiliate Booster is a feature-rich WordPress plugin having all the required feature you need.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:buttons {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|20"}}},"fontSize":"small","layout":{"type":"flex","flexWrap":"wrap","orientation":"horizontal","justifyContent":"center"}} -->
+<div class="wp-block-buttons has-custom-font-size has-small-font-size"><!-- wp:button {"style":{"spacing":{"padding":{"left":"var:preset|spacing|50","right":"var:preset|spacing|50","top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}},"border":{"width":"1px","radius":"10px"},"color":{"background":"#6f00ff"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-background wp-element-button" style="border-width:1px;border-radius:10px;background-color:#6f00ff;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--50)">Get Started</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"padding":{"top":"0","bottom":"0"},"margin":{"bottom":"var:preset|spacing|50"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-center" style="margin-bottom:var(--wp--preset--spacing--50);padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"width":"200px","sizeSlug":"large","align":"right"} -->
+<figure class="wp-block-image alignright size-large is-resized"><img src="https://www.affiliatebooster.com/wp-content/uploads/2024/10/6700d4274c0a2e532b3426e0.webp" alt="" style="width:200px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"0","padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-bottom:0"><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<p style="margin-top:0;margin-bottom:0">Trusted by 10,000+ people</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:affiliate-booster/ab-star-rating {"block_id":"da79f69a-dc5f-4467-9cf1-8babca4a7894","selectedStars":5} -->
+<div id="affiliate-style-da79f69a-dc5f-4467-9cf1-8babca4a7894" class="affiliate-starating-wrapper"><div class="affiliate-star-outer-container"><div class="affiliate-star-inner-container"><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div></div></div></div>
+<!-- /wp:affiliate-booster/ab-star-rating --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
