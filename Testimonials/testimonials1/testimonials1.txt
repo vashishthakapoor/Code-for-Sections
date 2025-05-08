@@ -1,0 +1,115 @@
+<!-- wp:group {"align":"full","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Affiliate community loves our plugin,&nbsp;and <br>we think you’ll love it too!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<div class="wp-block-columns" style="padding-right:0;padding-left:0"><!-- wp:column {"style":{"spacing":{"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40","top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}},"border":{"color":"#e6e6e6","width":"1px","radius":"10px"}}} -->
+<div class="wp-block-column has-border-color" style="border-color:#e6e6e6;border-width:1px;border-radius:10px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:affiliate-booster/ab-star-rating {"block_id":"77e24fa1-6dd7-49dd-805b-c6557b70e90a","selectedStars":5} -->
+<div id="affiliate-style-77e24fa1-6dd7-49dd-805b-c6557b70e90a" class="affiliate-starating-wrapper"><div class="affiliate-star-outer-container"><div class="affiliate-star-inner-container"><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div></div></div></div>
+<!-- /wp:affiliate-booster/ab-star-rating -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#696969"},"elements":{"link":{"color":{"text":"#696969"}}},"typography":{"fontSize":"18px"}}} -->
+<p class="has-text-color has-link-color" style="color:#696969;font-size:18px">AffiliateBooster has been a game-changer for my affiliate marketing efforts. As a co-founder of Via Communication, I’m always looking for tools that boost conversions.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns {"verticalAlignment":"top","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|30","left":"var:preset|spacing|40"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"20%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:20%"><!-- wp:image {"sizeSlug":"large","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="https://bytegain.com/wp-content/uploads/2024/05/Alex-Drew.jpeg" alt=""/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"80%","style":{"spacing":{"blockGap":"var:preset|spacing|20","padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-bottom:0;flex-basis:80%"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Alex B</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>CEO, Dummy Company</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40","top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}},"border":{"color":"#e6e6e6","width":"1px","radius":"10px"}}} -->
+<div class="wp-block-column has-border-color" style="border-color:#e6e6e6;border-width:1px;border-radius:10px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:affiliate-booster/ab-star-rating {"block_id":"cf4d307d-00c4-4edb-b4cb-0ec6f6ee212d","selectedStars":5} -->
+<div id="affiliate-style-cf4d307d-00c4-4edb-b4cb-0ec6f6ee212d" class="affiliate-starating-wrapper"><div class="affiliate-star-outer-container"><div class="affiliate-star-inner-container"><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div></div></div></div>
+<!-- /wp:affiliate-booster/ab-star-rating -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#696969"},"elements":{"link":{"color":{"text":"#696969"}}},"typography":{"fontSize":"18px"}}} -->
+<p class="has-text-color has-link-color" style="color:#696969;font-size:18px">AffiliateBooster has been a game-changer for my affiliate marketing efforts. As a co-founder of Via Communication, I’m always looking for tools that boost conversions.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns {"verticalAlignment":"top","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|30","left":"var:preset|spacing|40"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"20%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:20%"><!-- wp:image {"sizeSlug":"large","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="https://bytegain.com/wp-content/uploads/2024/05/Alex-Drew.jpeg" alt=""/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"80%","style":{"spacing":{"blockGap":"var:preset|spacing|20","padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-bottom:0;flex-basis:80%"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Alex B</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>CEO, Dummy Company</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40","top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}},"border":{"color":"#e6e6e6","width":"1px","radius":"10px"}}} -->
+<div class="wp-block-column has-border-color" style="border-color:#e6e6e6;border-width:1px;border-radius:10px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:affiliate-booster/ab-star-rating {"block_id":"b6b23178-6b79-4356-bafb-17b051270065","selectedStars":5} -->
+<div id="affiliate-style-b6b23178-6b79-4356-bafb-17b051270065" class="affiliate-starating-wrapper"><div class="affiliate-star-outer-container"><div class="affiliate-star-inner-container"><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div></div></div></div>
+<!-- /wp:affiliate-booster/ab-star-rating -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#696969"},"elements":{"link":{"color":{"text":"#696969"}}},"typography":{"fontSize":"18px"}}} -->
+<p class="has-text-color has-link-color" style="color:#696969;font-size:18px">AffiliateBooster has been a game-changer for my affiliate marketing efforts. As a co-founder of Via Communication, I’m always looking for tools that boost conversions.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns {"verticalAlignment":"top","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|30","left":"var:preset|spacing|40"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"20%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:20%"><!-- wp:image {"sizeSlug":"large","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="https://bytegain.com/wp-content/uploads/2024/05/Alex-Drew.jpeg" alt=""/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"80%","style":{"spacing":{"blockGap":"var:preset|spacing|20","padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-bottom:0;flex-basis:80%"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Alex B</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>CEO, Dummy Company</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:buttons {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|20"}}},"fontSize":"small","layout":{"type":"flex","flexWrap":"wrap","orientation":"horizontal","justifyContent":"center"}} -->
+<div class="wp-block-buttons has-custom-font-size has-small-font-size"><!-- wp:button {"style":{"spacing":{"padding":{"left":"var:preset|spacing|50","right":"var:preset|spacing|50","top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}},"border":{"width":"1px","radius":"10px"},"color":{"background":"#6f00ff"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-background wp-element-button" style="border-width:1px;border-radius:10px;background-color:#6f00ff;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--50)">Get Started</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"padding":{"top":"0","bottom":"0"},"margin":{"bottom":"var:preset|spacing|50"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-center" style="margin-bottom:var(--wp--preset--spacing--50);padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"width":"200px","sizeSlug":"large","align":"right"} -->
+<figure class="wp-block-image alignright size-large is-resized"><img src="https://www.affiliatebooster.com/wp-content/uploads/2024/10/6700d4274c0a2e532b3426e0.webp" alt="" style="width:200px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"0","padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-bottom:0"><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<p style="margin-top:0;margin-bottom:0">Trusted by 10,000+ people</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:affiliate-booster/ab-star-rating {"block_id":"4a58bb09-6b14-473a-98e3-e2b7390eb459","selectedStars":5} -->
+<div id="affiliate-style-4a58bb09-6b14-473a-98e3-e2b7390eb459" class="affiliate-starating-wrapper"><div class="affiliate-star-outer-container"><div class="affiliate-star-inner-container"><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div></div></div></div>
+<!-- /wp:affiliate-booster/ab-star-rating --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->

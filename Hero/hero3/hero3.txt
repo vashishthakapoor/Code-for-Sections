@@ -1,0 +1,73 @@
+<!-- wp:group {"align":"full","layout":{"type":"constrained","contentSize":"1024px"}} -->
+<div class="wp-block-group alignfull"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"66%"} -->
+<div class="wp-block-column" style="flex-basis:66%"><!-- wp:heading -->
+<h2 class="wp-block-heading">What is Lorem Ipsum?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever <strong>since the 1500s</strong>, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only <em>five centuries</em>, but also the leap into electronic typesetting, remaining essentially unchanged. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and <span style="text-decoration: underline;">more recently with desktop publishing</span> software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Where can I get some?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>If you are going to use a passage of Lorem Ipsum.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>You need to be sure there isn't anything embarrassing hidden in the middle of text.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Lorem Ipsum generators on the Internet tend to repeat predefined</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"34%","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|60","right":"var:preset|spacing|60"}},"border":{"radius":"20px","color":"#dddddd","width":"1px"}},"backgroundColor":"white"} -->
+<div class="wp-block-column is-vertically-aligned-top has-border-color has-white-background-color has-background" style="border-color:#dddddd;border-width:1px;border-radius:20px;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--60);flex-basis:34%"><!-- wp:image {"id":22,"width":"100px","sizeSlug":"full","linkDestination":"none","align":"center","className":"is-style-rounded"} -->
+<figure class="wp-block-image aligncenter size-full is-resized is-style-rounded"><img src="http://localhost:10048/wp-content/uploads/2024/11/cloudways-akfhwef.jpg" alt="" class="wp-image-22" style="width:100px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Get Lorem for $497 $224</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">USD per year</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"vivid-red","className":"is-style-outline","style":{"elements":{"link":{"color":{"text":"var:preset|color|vivid-red"}}},"border":{"width":"2px"}},"borderColor":"vivid-red"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-vivid-red-color has-white-background-color has-text-color has-background has-link-color has-border-color has-vivid-red-border-color wp-element-button" style="border-width:2px">GET UPTO 70% OFF</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size">Expiry: 31 Oct 2024</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"align":"right","fontSize":"small"} -->
+<p class="has-text-align-right has-small-font-size">✅ Verified coupon</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
