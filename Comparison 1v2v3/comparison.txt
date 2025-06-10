@@ -1,0 +1,117 @@
+<!-- wp:group {"align":"full","layout":{"type":"constrained","contentSize":"1200px"}} -->
+<div class="wp-block-group alignfull"><!-- wp:columns {"metadata":{"name":"Product Roundup Grid 3 - Affiliate Booster"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20","right":"var:preset|spacing|20"},"blockGap":{"top":"var:preset|spacing|20","left":"var:preset|spacing|30"},"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}},"border":{"width":"0px","style":"none"},"typography":{"fontSize":"14px"}}} -->
+<div class="wp-block-columns" style="border-style:none;border-width:0px;margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30);padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20);font-size:14px"><!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}}} -->
+<div class="wp-block-column"><!-- wp:columns {"style":{"border":{"radius":"10px","color":"#dddddd","width":"1px"}}} -->
+<div class="wp-block-columns has-border-color" style="border-color:#dddddd;border-width:1px;border-radius:10px"><!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|40","right":"var:preset|spacing|40"}}}} -->
+<div class="wp-block-column" style="padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|20"},"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} -->
+<div class="wp-block-columns" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)"><!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:image {"width":"180px","sizeSlug":"large","className":"is-style-default","style":{"border":{"width":"0px","style":"none"}}} -->
+<figure class="wp-block-image size-large is-resized has-custom-border is-style-default"><img src="/wp-content/plugins/affiliatebooster-blocks/assets/images/placeholder-logos/logo1.webp" alt="" style="border-style:none;border-width:0px;width:180px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"15%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:15%"><!-- wp:heading {"textAlign":"right","level":3} -->
+<h3 class="wp-block-heading has-text-align-right">4.7</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"35%","style":{"spacing":{"blockGap":"0","padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40"}}}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-right:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40);flex-basis:35%"><!-- wp:affiliate-booster/ab-star-rating {"block_id":"164e4ca1-ec87-471b-92d9-459cfa68a313","starsSize":"14","selectedStars":5,"itemPadding":"1","ratingAlignemt":"center"} -->
+<div id="affiliate-style-164e4ca1-ec87-471b-92d9-459cfa68a313" class="affiliate-starating-wrapper"><div class="affiliate-star-outer-container"><div class="affiliate-star-inner-container"><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div></div></div></div>
+<!-- /wp:affiliate-booster/ab-star-rating -->
+
+<!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}},"fontSize":"small"} -->
+<p class="has-text-align-center has-small-font-size" style="margin-top:0px;margin-bottom:0px">835 Reviews</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:affiliate-booster/ab-icon-list {"uniqueId":"52caca","block_id":"52caca51-6aa2-4188-832c-fc169b0ae735","boxShadow":{"openShadow":false,"inset":0,"horizontal":0,"vertical":8,"blur":35,"spread":0,"color":"rgba(0,0,0,0.10)"},"bgColor":"","listTextItems":["Fully customizable with drag-and-drop functionality.","One-click integration with popular email marketing tools.","Rank higher on Google with built-in SEO optimization."],"listIconColor":"#456bed","iconSpacing":"25","itemSpacing":"15","boxPadding":{"unit":"px","top":"10","left":"10","right":"10","bottom":"10"},"iconSize":"20"} -->
+<div id="affiliate-style-52caca51-6aa2-4188-832c-fc169b0ae735" class="wp-block-affiliate-booster-ab-icon-list affiliate-block-52caca affiliate-iconlist-wrapper"><div class="affiliate-iconlist-inner aff-list-isshow-icon"><div class="affiliate-block-advanced-list affiliate-icon-list affiliate-alignment-left"><ul class="affiliate-list affiliate-list-type-unordered affiliate-list-bullet-check-circle"><li>Fully customizable with drag-and-drop functionality.</li><li>One-click integration with popular email marketing tools.</li><li>Rank higher on Google with built-in SEO optimization.</li></ul></div></div></div>
+<!-- /wp:affiliate-booster/ab-icon-list -->
+
+<!-- wp:affiliate-booster/ab-advance-button {"block_id":"aa2a0e8f-c8fd-41a6-aa5c-bc32c3fd4b30","btnBg":{"openBg":1,"bgType":"color","videoSource":"local","bgDefaultColor":"#ff1818","bgGradient":{"color1":"#35c9ff","color2":"#39f768"}},"btnShadow":{"openShadow":true,"inset":0,"horizontal":0,"vertical":8,"blur":35,"spread":0,"color":"rgba(0, 0, 0, 0.14)"},"btnTarget":true,"buttonWidth":"full","btnTitle":"Claim","bntRounded":true,"titleTextColor":"#ffffff","btnHref":"#","enableGlimmerEffect":true} -->
+<div id="affiliate-style-aa2a0e8f-c8fd-41a6-aa5c-bc32c3fd4b30" class="affiliate-abbtn-wrapper "><div class="affiliate-abbtn-inner" data-concate="true"><a href="#" class="affiliate-abbtn btn-is-small btn-is-fullw btn-is-rounded  glimmer-effect" rel="noopener noreferrer nofollow" target="_blank"><i class="affiliate-abbtn-icon  af-icon-is-left"></i>Claim<i class="affiliate-abbtn-icon af-icon-is-right"></i></a></div></div>
+<!-- /wp:affiliate-booster/ab-advance-button --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}}} -->
+<div class="wp-block-column"><!-- wp:columns {"style":{"border":{"radius":"10px","color":"#dddddd","width":"1px"}}} -->
+<div class="wp-block-columns has-border-color" style="border-color:#dddddd;border-width:1px;border-radius:10px"><!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|40","right":"var:preset|spacing|40"}}}} -->
+<div class="wp-block-column" style="padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|20"},"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} -->
+<div class="wp-block-columns" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)"><!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:image {"width":"180px","sizeSlug":"large","className":"is-style-default","style":{"border":{"width":"0px","style":"none"}}} -->
+<figure class="wp-block-image size-large is-resized has-custom-border is-style-default"><img src="/wp-content/plugins/affiliatebooster-blocks/assets/images/placeholder-logos/logo1.webp" alt="" style="border-style:none;border-width:0px;width:180px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"15%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:15%"><!-- wp:heading {"textAlign":"right","level":3} -->
+<h3 class="wp-block-heading has-text-align-right">4.7</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"35%","style":{"spacing":{"blockGap":"0","padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40"}}}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-right:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40);flex-basis:35%"><!-- wp:affiliate-booster/ab-star-rating {"block_id":"13104fab-6a8d-4c6e-beab-543ea3d6cc1d","starsSize":"14","selectedStars":5,"itemPadding":"1","ratingAlignemt":"center"} -->
+<div id="affiliate-style-13104fab-6a8d-4c6e-beab-543ea3d6cc1d" class="affiliate-starating-wrapper"><div class="affiliate-star-outer-container"><div class="affiliate-star-inner-container"><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div></div></div></div>
+<!-- /wp:affiliate-booster/ab-star-rating -->
+
+<!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}},"fontSize":"small"} -->
+<p class="has-text-align-center has-small-font-size" style="margin-top:0px;margin-bottom:0px">835 Reviews</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:affiliate-booster/ab-icon-list {"uniqueId":"c634e7","block_id":"c634e75d-0627-4852-a063-e60e33452495","boxShadow":{"openShadow":false,"inset":0,"horizontal":0,"vertical":8,"blur":35,"spread":0,"color":"rgba(0,0,0,0.10)"},"bgColor":"","listTextItems":["Fully customizable with drag-and-drop functionality.","One-click integration with popular email marketing tools.","Rank higher on Google with built-in SEO optimization."],"listIconColor":"#456bed","iconSpacing":"25","itemSpacing":"15","boxPadding":{"unit":"px","top":"10","left":"10","right":"10","bottom":"10"},"iconSize":"20"} -->
+<div id="affiliate-style-c634e75d-0627-4852-a063-e60e33452495" class="wp-block-affiliate-booster-ab-icon-list affiliate-block-c634e7 affiliate-iconlist-wrapper"><div class="affiliate-iconlist-inner aff-list-isshow-icon"><div class="affiliate-block-advanced-list affiliate-icon-list affiliate-alignment-left"><ul class="affiliate-list affiliate-list-type-unordered affiliate-list-bullet-check-circle"><li>Fully customizable with drag-and-drop functionality.</li><li>One-click integration with popular email marketing tools.</li><li>Rank higher on Google with built-in SEO optimization.</li></ul></div></div></div>
+<!-- /wp:affiliate-booster/ab-icon-list -->
+
+<!-- wp:affiliate-booster/ab-advance-button {"block_id":"10ca0d72-4179-48fe-93c1-930ac5b597b5","btnBg":{"openBg":1,"bgType":"color","videoSource":"local","bgDefaultColor":"#ff1818","bgGradient":{"color1":"#35c9ff","color2":"#39f768"}},"btnShadow":{"openShadow":true,"inset":0,"horizontal":0,"vertical":8,"blur":35,"spread":0,"color":"rgba(0, 0, 0, 0.14)"},"btnTarget":true,"buttonWidth":"full","btnTitle":"Claim","bntRounded":true,"titleTextColor":"#ffffff","btnHref":"#","enableGlimmerEffect":true} -->
+<div id="affiliate-style-10ca0d72-4179-48fe-93c1-930ac5b597b5" class="affiliate-abbtn-wrapper "><div class="affiliate-abbtn-inner" data-concate="true"><a href="#" class="affiliate-abbtn btn-is-small btn-is-fullw btn-is-rounded  glimmer-effect" rel="noopener noreferrer nofollow" target="_blank"><i class="affiliate-abbtn-icon  af-icon-is-left"></i>Claim<i class="affiliate-abbtn-icon af-icon-is-right"></i></a></div></div>
+<!-- /wp:affiliate-booster/ab-advance-button --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}}} -->
+<div class="wp-block-column"><!-- wp:columns {"style":{"border":{"radius":"10px","color":"#dddddd","width":"1px"}}} -->
+<div class="wp-block-columns has-border-color" style="border-color:#dddddd;border-width:1px;border-radius:10px"><!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|40","right":"var:preset|spacing|40"}}}} -->
+<div class="wp-block-column" style="padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|20"},"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} -->
+<div class="wp-block-columns" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)"><!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:image {"width":"180px","sizeSlug":"large","className":"is-style-default","style":{"border":{"width":"0px","style":"none"}}} -->
+<figure class="wp-block-image size-large is-resized has-custom-border is-style-default"><img src="/wp-content/plugins/affiliatebooster-blocks/assets/images/placeholder-logos/logo1.webp" alt="" style="border-style:none;border-width:0px;width:180px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"15%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:15%"><!-- wp:heading {"textAlign":"right","level":3} -->
+<h3 class="wp-block-heading has-text-align-right">4.7</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"35%","style":{"spacing":{"blockGap":"0","padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40"}}}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-right:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40);flex-basis:35%"><!-- wp:affiliate-booster/ab-star-rating {"block_id":"0148278e-883e-4cd8-9aea-fea0903f105f","starsSize":"14","selectedStars":5,"itemPadding":"1","ratingAlignemt":"center"} -->
+<div id="affiliate-style-0148278e-883e-4cd8-9aea-fea0903f105f" class="affiliate-starating-wrapper"><div class="affiliate-star-outer-container"><div class="affiliate-star-inner-container"><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div><div class="affiliate-star-item"><svg xmlns="http://www.w3.org/2000/svg" style="fill:#ffa500" fill="#ffa500" viewBox="0 0 510 510"><polygon points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25" id="star"></polygon></svg></div></div></div></div>
+<!-- /wp:affiliate-booster/ab-star-rating -->
+
+<!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}},"fontSize":"small"} -->
+<p class="has-text-align-center has-small-font-size" style="margin-top:0px;margin-bottom:0px">835 Reviews</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:affiliate-booster/ab-icon-list {"uniqueId":"74ba9e","block_id":"74ba9e92-1a42-406a-8828-82c461826e15","boxShadow":{"openShadow":false,"inset":0,"horizontal":0,"vertical":8,"blur":35,"spread":0,"color":"rgba(0,0,0,0.10)"},"bgColor":"","listTextItems":["Fully customizable with drag-and-drop functionality.","One-click integration with popular email marketing tools.","Rank higher on Google with built-in SEO optimization."],"listIconColor":"#456bed","iconSpacing":"25","itemSpacing":"15","boxPadding":{"unit":"px","top":"10","left":"10","right":"10","bottom":"10"},"iconSize":"20"} -->
+<div id="affiliate-style-74ba9e92-1a42-406a-8828-82c461826e15" class="wp-block-affiliate-booster-ab-icon-list affiliate-block-74ba9e affiliate-iconlist-wrapper"><div class="affiliate-iconlist-inner aff-list-isshow-icon"><div class="affiliate-block-advanced-list affiliate-icon-list affiliate-alignment-left"><ul class="affiliate-list affiliate-list-type-unordered affiliate-list-bullet-check-circle"><li>Fully customizable with drag-and-drop functionality.</li><li>One-click integration with popular email marketing tools.</li><li>Rank higher on Google with built-in SEO optimization.</li></ul></div></div></div>
+<!-- /wp:affiliate-booster/ab-icon-list -->
+
+<!-- wp:affiliate-booster/ab-advance-button {"block_id":"5cb30f60-e79d-410a-897f-c656a30ae186","btnBg":{"openBg":1,"bgType":"color","videoSource":"local","bgDefaultColor":"#ff1818","bgGradient":{"color1":"#35c9ff","color2":"#39f768"}},"btnShadow":{"openShadow":true,"inset":0,"horizontal":0,"vertical":8,"blur":35,"spread":0,"color":"rgba(0, 0, 0, 0.14)"},"btnTarget":true,"buttonWidth":"full","btnTitle":"Claim","bntRounded":true,"titleTextColor":"#ffffff","btnHref":"#","enableGlimmerEffect":true} -->
+<div id="affiliate-style-5cb30f60-e79d-410a-897f-c656a30ae186" class="affiliate-abbtn-wrapper "><div class="affiliate-abbtn-inner" data-concate="true"><a href="#" class="affiliate-abbtn btn-is-small btn-is-fullw btn-is-rounded  glimmer-effect" rel="noopener noreferrer nofollow" target="_blank"><i class="affiliate-abbtn-icon  af-icon-is-left"></i>Claim<i class="affiliate-abbtn-icon af-icon-is-right"></i></a></div></div>
+<!-- /wp:affiliate-booster/ab-advance-button --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
